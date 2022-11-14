@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="Logo">
+    <file>MoonLight.png</file>
+  </qresource>
+  <qresource prefix="Buttons">
+    <file>estrelaSombra.png</file>
+    <file>HomemPNG.png</file>
+    <file>HomemSombra.png</file>
+    <file>estrela.png</file>
+  </qresource>
+  <qresource prefix="Outers">
+    <file>LuaC.png</file>
+    <file>stars.png</file>
+    <file>LuaCrescente.png</file>
+  </qresource>
+</RCC>
