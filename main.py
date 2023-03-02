@@ -84,7 +84,7 @@ class MainWindow(QMainWindow, Ui_MainWindow):
             self.lb_Perfil.setVisible(False)
             self.bnt_Perfil.setVisible(True)
 
-        # ----------------PG sistema___________________________________
+        # ----------------Paginas sistema___________________________________
 
         self.bnt_inicio.clicked.connect(lambda: self.tl_geral.setCurrentWidget(self.tl_inicio))
         self.bnt_OS.clicked.connect(lambda: self.tl_geral.setCurrentWidget(self.tl_OS))
